@@ -1,2 +1,2 @@
-# TotallyUseless_bot
+# TotallyUselessBot
 Just a telegram bot

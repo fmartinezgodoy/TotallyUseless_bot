@@ -1,2 +1,2 @@
-# TotallyUselessBot
-Just a telegram bot
+# TotallyUselessBot - Telegram
+Plantilla para un bot de Telegram
